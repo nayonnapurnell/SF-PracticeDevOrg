@@ -3,6 +3,7 @@ This org is designated for me to practice concepts to grasp an understanding to 
 
 
 ## Projects for Proof of Concept
-
+<details>
 <summary>LWC (Lightning Web Components)</summary>
-* Currency Converter
++ Currency Converter
+</details>
