@@ -1,5 +1,5 @@
 # SF Practice DevOrg
-This org is designated for me to practice concepts to grasp an understanding to lock in knowledge or to post within my Salesforce Portfolio.
+This org is designated for me to practice concepts to grasp an understanding of SF knowledge or to post projects within my Salesforce Portfolio.
 
 
 ## Projects for Proof of Concept
